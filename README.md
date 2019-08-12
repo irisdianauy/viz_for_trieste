@@ -4,7 +4,7 @@
 ## My data
 I generated data that compared DNA sequences from different samples with their counterparts in chosen references.  I produced a network to show an overview of the relationships.  But I wanted inspect one particular subcluster.  
 
-![A network subcluster](metacluster02_.png)
+![A network subcluster](metacluster02.png)
 
 ## From table...
 In particular, I wanted to to know how similar or different my samples were to the references.  I gathered my data in a table that looked like this:
