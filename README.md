@@ -26,7 +26,7 @@ where, as you can see, you cannot see anything.  The top and the bottom are far 
 
 But with larger alignments, it was of no help at all.
 
-## ...to a circular alignment.
+## ...to a circular alignment
 
 So I chose to present my data via circos.  This way, all sequences are of equal distance to each other, and I don't have to choose just one reference. 
 
